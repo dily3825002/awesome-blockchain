@@ -219,7 +219,7 @@
 
 ### 问答星球
 
-- [火山夫妇炒币直播间（站长的免费星球） ](https://t.zsxq.com/aMz33Bu)
+- [火山夫妇炒币直播间](https://t.zsxq.com/aMz33Bu)
 - [BNB粉丝圈](https://t.xiaomiquan.com/3rf2rBi )
 - [区块先锋：烧哥管理的几千人的大星球](https://t.xiaomiquan.com/VFeQZba)
 - [区块链观察者：人不多，但圈主经常神预测](https://t.xiaomiquan.com/fi2vNJi )
