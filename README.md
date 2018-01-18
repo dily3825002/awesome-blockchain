@@ -1,240 +1,229 @@
-# awesome-blockchain
-区块链白皮书、书籍、交易所、币种、自媒体等资源汇总 💯
+# 区块链资源汇总 💯
 
-# 微信小程序开发资源汇总
+## 区块链白皮书
 
-## QQ交流群
+xxxxxxxxx
 
-- [微信小程序1号群](https://jq.qq.com/?_wv=1027&k=5vqgNd0)：593495800
-- [微信小程序2号群](https://jq.qq.com/?_wv=1027&k=5DYIJtv)：139122611
-- [微信小程序3号群](https://jq.qq.com/?_wv=1027&k=5pNiKHt)：682463867
+## 常用必备
 
-## 目录
+- [币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920) 
+- [火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)
+- [OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/OTCKING)
+- [MyToken：简洁的币种行情APP](http://mytoken.io/)
+- [非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)
+- [金色财经：区块链第一媒体](http://jinse.com/)
+- [巴比特：区块链第一论坛 ](http://www.8btc.com/)
+- [链向财经：区块链信息服务平台](http://www.chainfor.com/)
+- [OKEX：支持法币和期货的交易所](https://www.okex.com/)
+- [比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)
+- [比特币区块浏览器 ](https://btc.com/)
+- [以太坊区块浏览器](https://etherscan.io/)
+- [分叉币大全 ](http://pieifo.com/)
+- [ICOROOT项目评测](https://www.icoroot.com/)
+- [以太坊国内门户网 ](http://ethfans.org/)
+- [BFC：最强的币种大数据网站](https://bitinfocharts.com/zh/)
 
-- [官方文档](#官方文档)
-- [新闻报道](#新闻报道)
-- [社区](#社区)
-- [工具](#工具)
-- [插件](#插件)
-- [分析](#分析)
-- [讨论](#讨论)
-- [教程](#教程)
-- [视频教程](#视频教程)
-- [文章](#文章)
-- [代码](#代码)
-- [轮子](#轮子)
+## 交易所：走好第一步
 
-## 置顶
+### 国内交易所
 
-- [WePY：组件化的小程序开发框架](https://github.com/Tencent/wepy) :100:
-- [WePY 开发资源汇总](https://github.com/aben1188/awesome-wepy) :100:
-- [ZanUI-WeApp: 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞](https://github.com/youzan/zanui-weapp) :100:
+- [币安：服务最好的币币交易所]()
+- [火币：靠谱的交易所]()
+- [比特儿：支持法币和各种分叉币 ]()
+- [OKEX：支持法币和期货]()
+- [EXX：可信赖的数字货币交易网 ]()
+- [KUCOIN：简单易用的数字货币交易网 ]()
+- [ZB：国内老字号中比特合作平台 ]()
+- [Bitfinex：经常世界第一的香港交易所]()
+- [AEX：比特时代海外版 ]()
+- [ALLCOIN：澳大利亚上市公司交易所 ]()
+- [币赢网：坚挺支持法币的交易所 ]()
+- [CEX：币久海外版]()
+- [BigOne：老猫掌管的币币交易所 ]()
+- [CoinEgg：聚币国际版]()
 
-## 官方文档
+### 国外交易所
 
-- [小程序开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
-- [小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
-- [小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
+B网：美国知名头部数字货币平台
+P网：成立于2014年的老牌山寨币平台
+Bithumb：韩国排名第一的交易平台
+Hitbtc：英国领先的交易平台
+KEX：可充值法币的韩国交易平台
+EtherDelta：去中心化第一交易平台
+Liqui：乌克兰优秀的交易平台
+Quoinex：日本最好的持照交易平台
+BIT-Z：全球化数字货币交易平台
+BitMex：总部位于塞舌尔的交易平台CME比特币期货平台
 
-## 新闻报道
+### 场外交易所
 
-- [微信正式开放内测“小程序”，不开发APP的日子真的来了？(36氪 • 缪定纯 • 2016-09-22 09:05)](https://36kr.com/p/5053349.html)
-- [关于微信小程序（应用号），我能透露的几个细节(可能吧 • Jason Ng • 2016-9-22)](https://kenengba.com/post/3515.html)
-- [你的产品适不适合做微信小程序？你需要这篇产品逻辑分析(虎嗅网 • 三节课 • 2016-9-22)](https://www.huxiu.com/article/164700.html)
+OTCBTC：体验最好的场外平台
+LocalBitcoins：全球最大场外平台
+可盈可乐：支持场外的综合交易所
+OKEX C2C：OKEX场外
+火币 C2C：火币场外ZB 
+C2C：中比特场外
+BitcoinWorld：比特币世界场外平台
+LinkCoin：好用的场外交易平台
 
-## 社区
+## 媒体资讯：识媒体，看币圈
 
-- [WXOPEN Club | 微信小程序专业社区](http://wxopen.club/)
-- [wxapp-union | 微信小程序联盟](http://www.wxapp-union.com/)
-- [larkapp | 白鹭青雀社区](http://bbs.larkapp.com/)
-- [蜂鸟小程序开发者社区](http://weixin1024.cn/)
-- [微信小程序垂直开发社区](https://weappdev.com/)
+金色财经：币圈国内第一媒体
+链向财经：区块链信息服务平台 
+巴比特论坛：区块链国内第一论坛 
+BTC123：比特币综合信息网
+币乎：有营养的币圈社区 
+币问：币圈知乎 
+区块链铅笔：区块链技术讨论社区 
+币看：比特币资讯及工具综合门户
+比特头条：区块链界的头条 
+比特之家：比特币门户网 
+EthFans：以太坊中文门户 
+CoinDesk：国外比特币综合门户网站
+BitcoinTalk：全球第一区块链论坛 
+Reddit：国外热门的比特币讨论组 
+未来财经：简洁风格的财经媒体
 
-## 工具
+## 炒币工具：工欲善其事，必先利其器
 
-- [WePY 一个支持组件化的小程序开发框架](https://github.com/Tencent/wepy)
-- [微信小程序配置及目录在线生成工具](https://weapptool.com)
-- [Egret Wing 3.2.x 支持微信小程序实时预览的 IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
-- [Labrador 支持 ES6/7 的微信小程序组件化开发框架](https://github.com/maichong/labrador)
-- [WEPT 一个微信小程序实时运行环境](https://github.com/chemzqm/wept)
-- [wxml-parser JavaScript WXML parser](https://github.com/seanlong/wxml-parser) 以及[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
-- [Px 转 Rpx 在线工具](http://allanguys.github.io/px2rpx)
-- [微信小程序云端增强 SDK XpmJS ](https://github.com/xpmjs/xpmjs)
-- [4kb 模块化开发工具 将模块化的属性和方法映射成小程序页面](https://github.com/chenzhuo1992/wech)
-- [gulp-wxa-copy-npm 插件 能够使用 ES6/7 和 NPM 库](https://github.com/mdsb100/gulp-wxa-copy-npm)
-- [wechat_web_devtools Linux 下微信开发者工具](https://github.com/cytle/wechat_web_devtools)
-- [WeApp-Workflow 基于 Gulp 的微信小程序前端开发工作流](https://github.com/Jeff2Ma/WeApp-Workflow)
-- [小程序助手 轻松实现小程序互转](https://openclub.alipay.com/read.php?tid=2888&fid=51)
-- [weact 用 JSX 快速开发小程序](https://github.com/haojy/weact)
+### 币种行情
 
-## 插件
+非小号：强大的行业大数据网站
+AiCoin：原SOSOBTC，支持APP 
+MyToken：小巧好用的行情查看APP 
+CoinMarketCap：国外老牌大数据网站
+BTC123：比特币价格汇总及行情图表 
+Bitkan：主流币种实时数据汇总 
+Cryptowat：热门资产专业行情图表 
+Investing：独有实时买入卖出分析
 
-- [vim 插件(chemzqm/wxapp.vim)](https://github.com/chemzqm/wxapp.vim)
-- [sublime text 2&3 snippet(Abbotton/weapp-snippet-for-sublime-text-2-3)](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3)
-- [IntelliJ IDEA 插件，注入方法](https://github.com/lypeer/Matchmaker)
-- [webstorm 插件（代码提示）](https://github.com/qbright/wechatCode-complete)
-- [sublime plugin - wxapp](https://github.com/FloydaGithub/wxapp)
+### 钱包工具
 
-## 文档
+imToken：国内最流行的以太坊钱包APP
+MyEtherWallet：最好用的以太坊网页钱包比特币官方钱包
+BlockChain：好用的多币种网页钱包
+莱特币客户端以太坊官方客户端
+比特派：国内功能最强大的钱包
+Bither：国产开源比特币钱包,无需同步区块
+BitBank：比银集团旗下比特币热钱包莱特币官方开源钱包
+Jaxx：支持几十种资产的优秀钱包
+AToken：支持几十种资产的钱包
+酷神钱包：超酷硬件钱包P
+O.IM ：币信海外版钱包
 
-- [从搭建一个微信小程序开始(腾讯云)](https://www.qcloud.com/act/event/yingyonghao.html)
+### 区块查询
 
-## 分析
+BTC浏览器
+ETH浏览器
+LTC浏览器
+QTUM浏览器
+USDT浏览器
+小蚁NEO浏览器
+BitInfoCharts综合浏览器
+BitBank综合浏览器
 
-- [从程序员的角度分析微信小程序(CSDN)](http://blog.csdn.net/yulianlin/article/details/52621413)
-- [微信小程序，一个有局限的类似 React Native 轮子！(简书)](http://www.jianshu.com/p/060c6f3dd4e8)
-- [一篇文章读懂微信小程序(应用号)是什么？(简书)](http://www.jianshu.com/p/a256ea4a3d0e)
+### 量化交易
 
-## 讨论
+BotVS：首家数字货币量化工具，功能强大
+比特币精灵：简单好用的对冲和搬砖工具
+米框量化：私人量化交易平台
+阿布量化：综合的开源交易系统
+果币网：比特币量化自动交易平台
+币量化：比特币、莱特币量化自动交易平台
+Samaritan：简单易用的数字货币量化框架
+比特一下：简单好用的搬砖工具
 
-- [如何评价 9 月 21 日开始内测的「微信小程序」？(知乎)](https://www.zhihu.com/question/50874500)
-- [如何看待微信将推应用号？(知乎)](https://www.zhihu.com/question/39374074)
-- [微信小程序（应用号）价值是什么？(知乎)](https://www.zhihu.com/question/50875544)
-- [微信应用号是否真能颠覆APP？(知乎)](https://www.zhihu.com/question/50878415)
-- [微信小程序的出现会给前端开发带来什么？(知乎)](https://www.zhihu.com/question/50900987)
-- [封闭一周开发微信应用号（小程序）(v2ex)](https://www.v2ex.com/t/308005)
-- [一个天大的误会：Vux并非微信应用号项目(github)](https://github.com/airyland/vux/issues/587)
-- [微信小程序即将发布，你怎么看？有啥有趣的点子？它会替代原生App吗？(掘金)](http://gold.xitu.io/entry/57e31c72bf22ec00584ca6b8/detail)
+### 大数据
 
-## 教程
+比特币富豪榜以太坊富豪榜交易所交易量排行榜主流币种活跃地址数
+上千个DAPP大全Erc20代币大全主流币种转账手续费概况矿池算力排行榜
+以太坊重要数据实时可视化图表 比特币区块数据比特币堵塞监视云养猫数据分析 可视化的ICO发展历史 区块链相关微信指数 区块链相关百度指数
 
-- 全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！
-  - [第一弹](http://www.diycode.cc/topics/311)
-  - [第二弹](http://www.diycode.cc/topics/312)
-  - [第三弹](http://www.diycode.cc/topics/316)
-  - [第四弹](http://www.diycode.cc/topics/325)
-  - [第五弹](http://www.diycode.cc/topics/328)
-- 微信小程序剖析(微信公众号)
-  - [「官方示例代码」浅析](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974082&idx=1&sn=47c7f672caf629cd846e315b8df2b1c5&scene=21#wechat_redirect)
-  - [（一）：运行机制](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974093&idx=1&sn=0570a243304ea8bb7d1b636624886fb1&scene=21#wechat_redirect)
-  - [（二）：框架原理](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974111&idx=1&sn=93a868cdb59b5dd77c65c7a5303e6e31#rd)
-  - [（三）：让小程序运行在Chrome浏览器上](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974133&idx=1&sn=3b67419e8ac0bb8262ca4c1e3cdabb35#rd)
-  - [（四）：原生的实时DOM转Virtual DOM](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974146&idx=1&sn=52041fdca4245e8f4b670ed20efa77de#rd)
-  - [（五）：创建一个兼容「微信小程序」的Web框架](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974149&idx=1&sn=3efe5e6ee479ad6cbddc0a607cd40411#rd)
-- [微信小程序架构分析(上)](https://zhuanlan.zhihu.com/p/22754296)
-- [微信小程序架构分析(中)](https://zhuanlan.zhihu.com/p/22765476)
-- [微信小程序架构分析(下)](https://zhuanlan.zhihu.com/p/22932309)
-- [首个微信小程序开发教程(掘金)](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
-- [微信小程序开发教程！(稀土区)](http://xituqu.com/508.html)
-- [微信小程序怎么开发？玩物志用一个上午上线了电商应用(爱范儿)](http://www.ifanr.com/721124)
-- [开发微信小程序入门前(LatteCake)](http://lattecake.com/post/20098)
-- [小程序来临，前端工程师的春天(简书)](http://www.jianshu.com/p/fc958b73441a)
-- [hello-weapp 微信小程序最简示例教程(dingyiming/weapp-example)](https://github.com/dingyiming/weapp-example)
-- [微信小应用 IDE 的安装以及安装过程的常见问题(champion32/WeAppIdeIssue)](https://github.com/champion32/WeAppIdeIssue)
-- [分享我用 cnode 社区 api 做微信小应用的入门过程(CNode)](https://cnodejs.org/topic/57ea257b3670ca3f44c5beb6)
-- [微信小程序开发教程-从零开始(简书)](http://www.jianshu.com/p/aaef5ceb3936)
-- [我所理解的小程序 - 小程序真机调试(seahub)](https://seahub.github.io/2016/10/09/%E6%88%91%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E5%B0%8F%E7%A8%8B%E5%BA%8F/)
-- [微信小程序快速入门教程|VR 视频推荐 DEMO(简书)](http://www.jianshu.com/p/0831f0b08a57)
-- [微信小程序集成 mobx](https://www.v2ex.com/t/352472)
-- [微信小程序集成 Redux(Segmentfault)](https://segmentfault.com/a/1190000007107646)
-- [微信小程序ajax请求到自己的网站(庆恺的笔记)](http://www.toutiao.com/i6337811737235948034/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&isappinstalled=1&iid=5802414556&utm_medium=toutiao_ios&wxshare_count=2&pbid=21507233636)
-- [微信小程序剖析 | 运行机制及框架原理(前端之巅)](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484316&idx=1&sn=463bbea1626458beb30f55ce155b4983&chksm=9723615ea054e848497c3b72e5264d99c9230144bd21862c508211085bf93b71078cc2fc1fc5&mpshare=1&scene=1&srcid=1013yiCsz6WNYwpKs2UDYuOO#rd)
-- [在微信小程序里实现图片预加载组件(凹凸实验室)](https://aotu.io/notes/2017/01/06/wxapp-img-loader/)
-- [开发到上线仅十六天 海外党微信小程序全攻略(简书)](http://www.jianshu.com/p/6ceee5026d61) 海外双机加速，免费证书配置等
-- [微信小程序解决方案专辑](http://www.wxapp-union.com/special/solution.html)
+### 服务号
 
-## 视频教程
+币猎手：全交易平台公告实时播报币世界快讯服务：重要新闻实时播报币安客服：24小时在线，万能的币安客服
 
-- [免费视频教程 - WXOPEN.Club 出品微信小程序开发视频教程（持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65)
-- [视频 - 全网首个微信小程序开发视频教程](http://www.howzhi.com/course/15035/)
-- [视频 - 微信小程序开发实战第一季(CSDN)](http://edu.csdn.net/course/detail/3011)
-- [视频 - 微信小程序开发实战第二季(CSDN)](http://edu.csdn.net/course/detail/3045)
-- [视频 - 极客学院微信小程序开发](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
-- [视频 - 微信小程序新手入门(51CTO)](http://edu.51cto.com/course/course_id-7242.html)
+## 自媒体：币圈里，信息就是钱
 
-## 文章
+### 公司订阅号
 
-- [未来是 h5 的：写在微信应用号发布之际(CNode)](https://cnodejs.org/topic/57e330d07d8293463a01e7e0)
-- [微信“小程序”让我脑洞大开(简书)](http://www.jianshu.com/p/60c8fd8d6862)
-- [关于小程序你不知道的秘密(腾讯云助手)](http://mp.weixin.qq.com/s?__biz=MzA3NTE4NTgzMQ==&mid=2648022620&idx=1&sn=7cdff020ee181c661d62d2e971a6230e&chksm=87555594b022dc822eeebf203e9a236268fef86d133b38d8d2dab73ebaee3cff236a5184a63a&mpshare=1&scene=1&srcid=0927JARMptVhu0L9MzFdoZuZ#rd)
-- [关于微信小程序（应用号）的底层逻辑分析和拥抱建议(知乎专栏)](https://zhuanlan.zhihu.com/p/22565340)
-- [开发微信小程序的必备技能图谱(CSDN)](http://geek.csdn.net/news/detail/103138)
-- [微信小程序和谷歌 PWA 有什么关系？(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652039482&idx=2&sn=778e1313ebbd832b590b81a8088b63db#rd)
-- [在微信小程序里，我们要怎样做数据分析（上）(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0ODU0MDg0Mw==&mid=2247483754&idx=1&sn=9578311da11d1fd3889e0829505c3993&scene=2&srcid=0924io6H1CmEPGYJxmEQVtlA)
-- [一张图看微信小程序(前端之路 - DRY)](http://zhenhua-lee.github.io/manmage/wx.html)
-- [微信小程序要这样解读(CSDN)](http://blog.csdn.net/yanzhenjie1003/article/details/52698184)
-- [一名 Android 开发者的微信小程序填坑之路(1)](http://blog.csdn.net/luoyanglizi/article/details/52681245)
-- [小程序开发利器：Matchmaker(CSDN)](http://blog.csdn.net/luoyanglizi/article/details/52711634)
-- [微信小程序开发三宗罪和解决方案(SegmentFault)](https://segmentfault.com/a/1190000007017985)
-- [使用 Labrador 0.3 构建 ES6/ES7 标准模块化微信小程序(SegmentFault)](https://segmentfault.com/a/1190000007109050)
-- [微信小程序真机测试多个 DEMO)(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzA5NTQ4NjkyMQ==&mid=2650723004&idx=1&sn=a6bcbf354beca3e745c47e542e119e5c&chksm=88b4e41abfc36d0c547698b6f4f3669b1aa351a879332c2848ffd6618dbf23cb41316dca570a&scene=0#rd)
-- [微信小程序真机测试视频源文件](https://github.com/bestony/WeApp-Demo)
-- [WordPress 网站基于 REST API 开发“微信小程序”实战](https://devework.com/wordpress-rest-api-weixin-weapp.html)
-- [WordPress 网站开发“微信小程序“实战(二)](https://devework.com/wordpress-weapp-2.html)
-- [WordPress 网站开发“微信小程序“实战(三)](https://devework.com/wordpress-weapp-3.html)
+白话区块链：币圈最良心公众号，小白首选BABI财经：币安旗下币圈媒体号 巴比特资讯：巴比特旗下公众号 未来虚拟币：大炮评级，精彩料多
+区块链铅笔：万象投资的媒体 腾讯可信区块链：腾讯区块链官方号 Hi区块链 NEO智能经济：NEO官方公众号，活动多
 
-## 代码
+### 个人订阅号
 
-- [微信小程序官方 Demo(Hao-Wu/WeApp-Demo)](https://github.com/Hao-Wu/WeApp-Demo)
-- [微信小应用示例代码(phodal/weapp-quick)](https://github.com/phodal/weapp-quick)
-- [微信小应用地图定位 demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
-- [微信小应用- 掘金主页信息流(hilongjw/weapp-gold)](https://github.com/hilongjw/weapp-gold)
-- [微信小程序（应用号）示例：微信小程序豆瓣电影(zce/weapp-demo)](https://github.com/zce/weapp-demo)
-- [微信小程序 - 豆瓣电影(hingsir/weapp-douban-film)](https://github.com/hingsir/weapp-douban-film)
-- [小程序 hello world 尝鲜(kunkun12/weapp)](https://github.com/kunkun12/weapp)
-- [微信小程序版 2048 小游戏(natee/wxapp-2048)](https://github.com/natee/wxapp-2048)
-- [微信小程序 - 微票(wangmingjob/weapp-weipiao)](https://github.com/wangmingjob/weapp-weipiao)
-- [微信小程序购物车 DEMO(SeptemberMaples/wechat-weapp-demo)](https://github.com/SeptemberMaples/wechat-weapp-demo)
-- [微信小程序 V2EX(jectychen/wechat-v2ex)](https://github.com/jectychen/wechat-v2ex)
-- [微信小程序 - 知乎日报(myronliu347/wechat-app-zhihudaily)](https://github.com/myronliu347/wechat-app-zhihudaily)
-- [微信小程序 - 公众号热门文章信息流(hijiangtao/weapp-newsapp)](https://github.com/hijiangtao/weapp-newsapp)
-- [微信小程序版 Gank 客户端(lypeer/wechat-weapp-gank)](https://github.com/lypeer/wechat-weapp-gank)
-- [微信小程序集成 Redux 实现的Todo list(charleyw/wechat-weapp-redux-todos)](https://github.com/charleyw/wechat-weapp-redux-todos)
-- [微信小程序集成 LeanCloud 实现的 Todo list(leancloud/leantodo-weapp)](https://github.com/leancloud/leantodo-weapp)
-- [微信小程序 - 番茄时钟(kraaas/timer)](https://github.com/kraaas/timer)
-- [微信小程序 - 聊天室(ericzyh/wechat-chat)](https://github.com/ericzyh/wechat-chat)
-- [微信小程序 - HiApp(BelinChung/wxapp-hiapp)](https://github.com/BelinChung/wxapp-hiapp)
-- [小程序 Redux 绑定库(charleyw/wechat-weapp-redux)](https://github.com/charleyw/wechat-weapp-redux)
-- [微信小程序版微信(18380435477/WeApp)](https://github.com/18380435477/WeApp)
-- [小程序开发从布局开始(hardog/wechat-app-flexlayout)](https://github.com/hardog/wechat-app-flexlayout)
-- [微信小程序 - 音乐播放器(eyasliu/wechat-app-music)](https://github.com/eyasliu/wechat-app-music)
-- [微信小程序 - 简易计算器-适合入门（dunizb/wxapp-sCalc）](https://github.com/dunizb/wxapp-sCalc)
-- [微信小程序 - github(zhengxiaowai/weapp-github)](https://github.com/zhengxiaowai/weapp-github)
-- [微信小程序 - 小熊の日记(harveyqing/BearDiary)](https://github.com/harveyqing/BearDiary)
-- [微信小程序(Seahub/PigRaising)](https://github.com/SeaHub/PigRaising)
-- [微信小程序(WeChatMeiZhi妹子图)](https://github.com/brucevanfdm/WeChatMeiZhi)
-- [微信小程序快速开发骨架](https://github.com/zce/weapp-boilerplate)
-- [微信小程序 - Artand 最专业的艺术设计平台](https://github.com/SuperKieran/weapp-artand)
-- [微信小程序 - 开心一刻(zhijieeeeee/wechat-app-joke)](https://github.com/zhijieeeeee/wechat-app-joke)
-- [微信小程序 - GitHubFeed(uniquexiaobai/wechat-app-githubfeed)](https://github.com/uniquexiaobai/wechat-app-githubfeed)
-- [微信小程序 - 国外摄影社区500px(fluency03/weapp-500px)](https://github.com/fluency03/weapp-500px)
-- [微信小程序 - 巴爷供销社－电商平台(bayetech)](https://github.com/bayetech/wechat_mall_applet)
-- [基于微信小程序的 UI 库（Wa-UI）](https://github.com/liujians/Wa-UI)
-- [微信小程序 - 豆瓣美女/妹子图(weapp-girls)](https://github.com/litt1e-p/weapp-girls)
-- [微信小程序 - 美女模特(BeautifulGirl)](https://github.com/liumulin614/BeautifulGirl)
-- [微信小程序 - 知乎仿写(RebeccaHanjw/weapp-wechat-zhihu)](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
-- [微信小程序 - 面包旅行(romoo/weapp-demo-breadtrip)](https://github.com/romoo/weapp-demo-breadtrip)
-- [微信小程序 - 淘票票(weapp-film)](https://github.com/luuman/weapp-film)
-- [微信小程序 - 仿 ONE(ahonn/weapp-one)](https://github.com/ahonn/weapp-one)
-- [微信小程序 - 新闻阅读器(vace/wechatapp-news-reader)](https://github.com/vace/wechatapp-news-reader)
-- [微信小程序 - 百思不得姐(Symous/WechatApp-BaisiSister)](https://github.com/Symous/WechatApp-BaisiSister)
-- [微信小程序 - We 重邮(lanshan-studio/wecqupt)](https://github.com/lanshan-studio/wecqupt)
-- [微信小程序 - IOS 计算器](https://github.com/DengKe1994/weapp-calculator/tree/master)
-- [微信小程序 - github 简历(monkindey/wx-github)](https://github.com/monkindey/wx-github)
-- [微信小程序 - 程序员老黄历(xujinyang/CoderCalendar-WeApp)](https://github.com/xujinyang/CoderCalendar-WeApp)
-- [微信小程序 - TODOS（任务清单）(zce/weapp-todos)](https://github.com/zce/weapp-todos)
-- [微信小程序 - 企业宣传小程序(yaoshanliang/weapp-ssha)](https://github.com/yaoshanliang/weapp-ssha)
-- [微信小程序 - Zhihu Live (dongweiming/weapp-zhihulive)](https://github.com/dongweiming/weapp-zhihulive)
-- [微信小程序 - 豆瓣电影(bruintong/wechat-webapp-douban-movie)](https://github.com/bruintong/wechat-webapp-douban-movie)
-- [微信小程序 - 豆瓣同城(bruintong/wechat-webapp-douban-location)](https://github.com/bruintong/wechat-webapp-douban-location)
-- [微信小程序 - 煎蛋微信小程序(arkilis/weapp-jandan)](https://github.com/arkilis/weapp-jandan)
-- [微信小程序 - 微信天气(bodekjan/wechat-weather)](https://github.com/bodekjan/wechat-weather)
-- [微信小程序 - 我要圣诞帽 (jasscia/ChristmasHat)](https://github.com/jasscia/ChristmasHat)
+猫说：2017年无数新韭菜的启蒙公众号闪电HSL：技术大神，BCH支持者数字货币趋势狂人：坚持日更的行情分析师苏江：币圈独立思考者，篇篇精华
+Miao说区块链老董区块链干货铺：技术大神，课程精彩币计：币圈八卦，热点追踪小明微思考
+李白话日常几米一回头：分享各种赚钱的故事和技巧一二：已经出书的杰出90后，文章很好蓝狐笔记
+45区币虎：靠谱项目带投王团长区块链日记：真实的投资日记
 
+### 微博
 
-## 轮子
+财新网：国家媒体，国内币圈政策风向标南宫远：币圈老资格的比特币踏空者宝二爷：比特币上帝分叉发起人何生：币圈坚持直播最长的人
+杨林科：原比特币中国CEO比特吴何一：币安合伙儿人，首席客服申屠青春：博士，投票链创始人
+江卓尔：矿池大佬，BCH支持者比特币秋山君孙宇晨：90后网红创业者，波场创始人比特币莱特币
+暴走恭亲王：传奇人物，Cybex创始人
 
-- [socket.io 风格的 websocket 类库](https://github.com/fanweixiao/wxapp-socket-io)
-- [微信小程序倒计时组件(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483670&idx=1&sn=5aa5da2fff2415e9b19f848712ddf480&chksm=e9789904de0f1012159332fda391c3eec0bb3d1c0db2c34ab557208ff0c04806a40d00e844fe&mpshare=1&scene=1&srcid=1007cWRXdd0ug9oAceCsIWp6#rd)
-- [微信小程序下拉筛选组件(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483674&idx=1&sn=2bf242b391144f3f0e57e0ed0ebce36f&chksm=e9789908de0f101ee23f7c125c9a48c4f9ba3f242a3b1c89b05ca5b9e8e68262c02b47fe3d12&mpshare=1&scene=1&srcid=1008NvO9oI8wWGp4XBxlpLeL#rd)
-- [w3c 标准 API polyfill](https://github.com/leancloud/weapp-polyfill)
-- [WeToast - 微信小程序toast增强插件](https://github.com/kiinlam/wetoast)
-- [wxParse - 微信小程序富文本解析自定义组件，支持HTML及markdown解析](https://github.com/icindy/wxParse)
-- [wx-alphabetical-listview 带字母滑动的列表](https://github.com/zhongjie-chen/wx-alphabetical-listview)
-- [wx-drawer 模仿 QQ6.0 侧滑菜单](https://github.com/zhongjie-chen/wx-drawer)
-- [wx-scrollable-tab-view 可滚动的 tabview](https://github.com/zhongjie-chen/wx-scrollable-tab-view)
-- [wxapp-img-loader 图片预加载组件](https://github.com/o2team/wxapp-img-loader)
-- [we-swiper 内容滑动插件](https://github.com/dlhandsome/we-swiper)
-- [we-cropper 微信小程序图片裁剪工具](https://github.com/dlhandsome/we-cropper)
-- [wx-promise-request 微信小程序请求队列管理库](https://github.com/JoeZheng2015/wx-promise-request)
-- [wxDraw 全面的小程序 Canvas 动画库 支持创建各种图形，动画以及主要手势交互事件](https://github.com/bobiscool/wxDraw)
+### 博客、简书
+
+汪晓明博客：大量系统的区块链技术教程Elwin随心博客黎跃春博客：人称春哥，孔壹学院创始人
+知识星球
+猫友圈：人多，热闹，但老猫不常出现闪电比特币圈：大头经常出现区块链爱好者海外币圈：用心管理的
+
+### 问答星球
+
+火山夫妇炒币直播间（站长的免费星球） BNB粉丝圈区块先锋：烧哥管理的几千人的大星球区块链观察者：人不多，但圈主经常神预测大炮矿社(IPFS)：IPFS及其挖矿的星球
+
+### 一直播
+
+何生-何币说：币圈坚持直播最长的人比特币世界：黄河老师的直播节目巴比特资讯：巴比特偶尔直播洋洋访谈直播：国内最早，现宝爷偶尔直播
+OKEX直播：经常直播和抽奖孙宇晨直播：创造过百万浏览的币圈网红
+
+## 业界公司：向埋头做事的行业公司敬礼
+
+### 矿池矿机
+
+蚂蚁矿机AntPool蚁池 BTC矿池 ViaBTC矿池
+F2Pool 鱼池 莱比特矿池 国池 算力巢
+算力吧 BTC难度算力 MiningPool ETC矿池
+熊猫矿机 币信矿池 星火矿池
+
+### 技术研发
+
+布比区块链万象区块链腾讯区块链云象区块链
+复杂美区块链井通区块链太一云安链云
+
+### 项目评测
+
+ICOROOT：国内最专业的项目评级Crushcrypto：国外最好最全的项目信息52ICOIFO分叉大全：各种币的分叉信息一网打尽
+TopIcoListIcoRatingIcoWebIcoAlertIcodrops：国外权威项目评级网站 Coingecko：最新国外项目众筹列表
+
+## 书籍：沉下心，读本书
+
+### 纸质书
+
+比特币：一个虚幻而真实的金融世界 区块链革命 区块链：新经济蓝图及导读 区块链：技术驱动金融
+区块链：重塑经济与世界 区块链：从数字货币到信用社会 区块链：定义未来金融与经济新格局 区块链数字货币投资指南
+如何投资数字货币 区块链开发指南 区块链技术指南 区块链核心算法解析
+区块链技术原理及底层架构 区块链原理、设计与应用
+
+### 电子书
+
+精通比特币第二版 高盛区块链报告 央行数字货币研究与探讨 Solidity智能合约编程指南
+
+### 中文白皮书精选
+
+ETH白皮书 EOS白皮书 星际文件白皮书 Polkadot白皮书
+Kyber去中心化交易所白皮书 流量矿石白皮书
+
+## 杂货铺：杂货铺里有宝贝
+
+Solidity在线开发 ETH养猫游戏 ETH养猫游戏数据分析 中本聪骰子 免费获取比特币 BTC RPG 游戏 BTC虚拟酒吧 BTC采矿游戏 多人 BTC RPG BTC赛车游戏 BTC雨伞游戏 BTC战争游戏 一键生成分叉币 招财猫：网易的第一款区块链游戏 公信宝布洛克城，入住可挖GXS！
+
+## 好文精选：好文不常见，且读且珍惜
+
+TED关于区块链的入门科普视频 比特币的基因 指责比特币挖矿耗电是无理取闹 深度剖析共识机制和拜占庭将军问题
+比特币硬骨头：非对称加密技术 中心化 VS 去中心化 比特币的安全问题 比特币分叉的背景与历史渊源
+面对比特币分叉,我们要保持独立思考 深圳车牌与比特币 比特币每天都在刷新我对它的认知 区块链下真正靠谱的落地创业机会
+怎样才能摆脱“韭菜”思维? 区块链资产的配置逻辑（上） 区块链资产的配置逻辑（下） 技术大神“云风”2011年关于BTC的分析
+长铗2011年的投资建议（史诗级评论） 2017年你为什么错过比特币？
