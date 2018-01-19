@@ -1,4 +1,23 @@
-# 区块链资源汇总 💯
+<p align="center">
+    <img src="./logo.jpeg"
+         height="130">
+</p>
+<p align="center">
+    <a href="https://github.com/dily3825002/awesome-blockchain/network">
+        <img src="https://img.shields.io/github/forks/dily3825002/awesome-blockchain.svg"
+             alt="forks">
+    </a>
+    <a href="https://github.com/dily3825002/awesome-blockchain/stargazers">
+        <img src="https://img.shields.io/github/stars/dily3825002/awesome-blockchain.svg"
+             alt="stars">
+    </a>
+    <a href="./LICENSE.md">
+        <img src="https://img.shields.io/badge/license-GNU-blue.svg"
+             alt="license">
+    </a>
+</p>
+
+# 区块链资源汇总 
 
 ## 区块链白皮书
 
@@ -7,22 +26,14 @@
 
 ## 常用必备
 
-- [币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920) 
-- [火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)
-- [OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/OTCKING)
-- [MyToken：简洁的币种行情APP](http://mytoken.io/)
-- [非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)
-- [金色财经：区块链第一媒体](http://jinse.com/)
-- [巴比特：区块链第一论坛 ](http://www.8btc.com/)
-- [链向财经：区块链信息服务平台](http://www.chainfor.com/)
-- [OKEX：支持法币和期货的交易所](https://www.okex.com/)
-- [比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)
-- [比特币区块浏览器 ](https://btc.com/)
-- [以太坊区块浏览器](https://etherscan.io/)
-- [分叉币大全 ](http://pieifo.com/)
-- [ICOROOT项目评测](https://www.icoroot.com/)
-- [以太坊国内门户网 ](http://ethfans.org/)
-- [BFC：最强的币种大数据网站](https://bitinfocharts.com/zh/)
+|交易所|场外交易所|资讯|数据查询|
+|--|--|--|--|
+|[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920) |[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/OTCKING)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
+|[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[OKEX：支持法币和期货的交易所](https://www.okex.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
+|[OKEX：支持法币和期货的交易所](https://www.okex.com/)|[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|[金色财经：区块链第一媒体](http://jinse.com/)|[分叉币大全 ](http://pieifo.com/)|
+|[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
+|-|-|[链向财经：区块链信息服务平台](http://www.chainfor.com/)|[以太坊国内门户网 ](http://ethfans.org/)|
+|-|-|-|[BFC：最强的币种大数据网站](https://bitinfocharts.com/zh/)|
 
 ## 交易所：走好第一步
 
@@ -184,3 +195,8 @@
 |-|[技术大神“云风”2011年关于BTC的分析]( https://blog.codingnow.com/2011/05/bitcoin.html)|
 |-|[长铗2011年的投资建议（史诗级评论）](https://www.zhihu.com/question/19982269)|
 |-|[2017年你为什么错过比特币？](https://mp.weixin.qq.com/s?__biz=MzIyNDk1NzU4OA==&amp;mid=2247484665&amp;idx=1&amp;sn=c0e3a0a9b72315065920f9aeeb4c144d&amp;chksm=e8064102df71c8148fc42b200e8b30276d0df8803bd1e3a18330bda3a13c46445aa8663b9d88&amp;mpshare=1&amp;scene=1&amp;srcid=1214THPGs7RcH0Q3VIqX4sMr#rd)|
+
+## Tips
+
+如果你有更多信息请发给我
+邮箱：dily3825002@163.com
