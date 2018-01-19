@@ -34,8 +34,8 @@
 |[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
 |-|-|[链向财经：区块链信息服务平台](http://www.chainfor.com/)|[以太坊国内门户网 ](http://ethfans.org/)|
 |-|-|-|[BFC：最强的币种大数据网站](https://bitinfocharts.com/zh/)|
-
 <br/>
+
 ## 交易所：走好第一步
 
 |国内交易所|国外交易所|场外交易所|
@@ -54,8 +54,8 @@
 |[CEX：币久海外版](https://www.cex.com/)|-|-|
 |[BigOne：老猫掌管的币币交易所 ](https://big.one/)|-|-|
 |[CoinEgg：聚币国际版](https://www.coinegg.com/)|-|-|
-
 <br/>
+
 ## 媒体资讯：识媒体，看币圈
 
 |媒体|微博|订阅号|
@@ -76,8 +76,8 @@
 |[Reddit：国外热门的比特币讨论组 ](https://www.reddit.com/)|-|-|
 |[未来财经：简洁风格的财经媒体](http://www.weilaicaijing.com/)|-|-|
 
-
 <br/>
+
 ## 炒币工具：工欲善其事，必先利其器
 
 |币种行情|钱包工具|区块查询|量化交易|
@@ -96,8 +96,8 @@
 |-|[酷神钱包：超酷硬件钱包P](https://www.coldlar.com/)|-|-|
 |-|[PO.IM ：币信海外版钱包](https://po.im/)|-|-|
 
-
 <br/>
+
 ## 大数据
 
 - [比特币富豪榜](http://qukuai.com/top)
@@ -116,8 +116,8 @@
 - [区块链相关微信指数 ](http://index.wxadd.com/rank/bitcoin)
 - [区块链相关百度指数](http://index.baidu.com/?tpl=trend&amp;type=0&amp;area=0&amp;time=13&amp;word=%C7%F8%BF%E9%C1%B4%2C%B1%C8%CC%D8%B1%D2%2Cico%2C%D2%D4%CC%AB%B7%BB)
 
-
 <br/>
+
 ## 自媒体：币圈里，信息就是钱
 
 |个人订阅号|博客、简书|知识星球|
@@ -136,8 +136,8 @@
 |[币虎：靠谱项目带投](http://mp.weixin.qq.com/s/HD6-TgJo3ejquZUbO0EzZg )|-|-|
 |[王团长区块链日记：真实的投资日记](https://mp.weixin.qq.com/s/YT4yQFu9Y0Vx-s_tHWvixA )|-|-|
 
-
 <br/>
+
 ## 业界公司：向埋头做事的行业公司敬礼
 
 |矿池矿机|技术研发|项目评测|
@@ -158,8 +158,8 @@
 |[币信矿池 ](https://pool.bixin.com/home)|-|-|
 |[星火矿池](https://eth.ethfans.org/)|-|-|
 
-
 <br/>
+
 ## 书籍：沉下心，读本书
 
 |纸质书|电子书|中文白皮书精选|
@@ -179,8 +179,8 @@
 |[区块链技术原理及底层架构 ](https://item.jd.com/12188306.html)|-|-|
 |[区块链原理、设计与应用]( https://item.jd.com/12159265.html )|-|-|
 
-
 <br/>
+
 ## 其他
 
 |精品游戏|精品文章|
@@ -203,8 +203,8 @@
 |-|[技术大神“云风”2011年关于BTC的分析]( https://blog.codingnow.com/2011/05/bitcoin.html)|
 |-|[长铗2011年的投资建议（史诗级评论）](https://www.zhihu.com/question/19982269)|
 |-|[2017年你为什么错过比特币？](https://mp.weixin.qq.com/s?__biz=MzIyNDk1NzU4OA==&amp;mid=2247484665&amp;idx=1&amp;sn=c0e3a0a9b72315065920f9aeeb4c144d&amp;chksm=e8064102df71c8148fc42b200e8b30276d0df8803bd1e3a18330bda3a13c46445aa8663b9d88&amp;mpshare=1&amp;scene=1&amp;srcid=1214THPGs7RcH0Q3VIqX4sMr#rd)|
-
 <br/>
+
 ## Tips
 
 如果你有更多信息请发给我
