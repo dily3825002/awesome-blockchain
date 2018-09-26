@@ -99,6 +99,7 @@
 |-|[AToken：支持几十种资产的钱包](https://www.atoken.com/)|-|-|
 |-|[酷神钱包：超酷硬件钱包P](https://www.coldlar.com/)|-|-|
 |-|[PO.IM ：币信海外版钱包](https://po.im/)|-|-|
+|-|[ONE钱包: 万能钱包](http://app.onechain.one/appstart.html)|-|-|
 
 <br/>
 
@@ -161,6 +162,7 @@
 |[熊猫矿机 ](http://pandaminer.com/)|-|-|
 |[币信矿池 ](https://pool.bixin.com/home)|-|-|
 |[星火矿池](https://eth.ethfans.org/)|-|-|
+|-|[OneChain](http://www.onechain.one/)|-|
 
 <br/>
 
