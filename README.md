@@ -213,5 +213,12 @@
 
 ## Tips
 
+<p align="center">
+都看到这里了不关注公众号么<br/>「这里文章不正经」<br/><br/>
+    <img src="./wechat.jpg"
+         height="130">
+</p>
+
+
 如果你有更多信息请发给我
 邮箱：dily3825002@163.com
